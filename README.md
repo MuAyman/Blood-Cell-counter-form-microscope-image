@@ -1,2 +1,3 @@
 # Blood Cell counter form microscope image
- 
+
+The core of the project involves recognizing and tallying red blood cells within microscopic blood images, facilitated by a user-friendly Graphical User Interface (GUI). To achieve this, I developed a specialized image processing algorithm utilizing Matlab's image processing library functions. This algorithm effectively distinguishes red blood cells from other components within the microscopic image, subsequently quantifying their population and computing red blood cell density based on their presence. This project contributes to advancements in medical image analysis and aids in enhancing our comprehension of blood composition.
